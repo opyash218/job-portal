@@ -21,7 +21,7 @@ A job portal application built using Node.js, allowing users to register, search
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/job-portal.git
+   git clone https://github.com/opyash218/job-portal.git
    cd job-portal
    ```
 2. Install dependencies:
